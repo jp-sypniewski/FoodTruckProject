@@ -1,12 +1,17 @@
 package com.skilldistillery.foodtrucks;
 
 public class FoodTruck {
+	
+	// fields
+	
 	private int id;
 	private String name;
 	private String foodType;
 	private int rating;
 
 	private static int idCounter = 0;
+	
+	// constructor
 
 	public FoodTruck(String truckName, String truckFoodType, int truckRating) {
 		this.name = truckName;
@@ -15,6 +20,8 @@ public class FoodTruck {
 		this.id = idCounter;
 		idCounter++;
 	}
+	
+	// methods
 
 	public void displayTruck() {
 		System.out.println("Truck: " + name);
