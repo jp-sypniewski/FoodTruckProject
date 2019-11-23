@@ -10,7 +10,7 @@ public class FoodTruckApp {
 	private String truckNameHolder;
 	private String truckFoodTypeHolder;
 	private int truckRatingHolder;
-	private FoodTruck[] foodTruckArray = new FoodTruck[5];
+	private FoodTruck[] foodTruckArray = new FoodTruck[maxTrucks];
 
 	// constructor
 	
