@@ -8,10 +8,10 @@ Users input and rate a list of (up to 5) food trucks, then view the average rati
 
 #### Concepts
 
--Creating objects and manipulating the data retrieved from objects
--Getter methods for private fields within an object
--For loop with break for limited user input
--Infinite while loop with break when user quits program
+- Creating objects and manipulating the data retrieved from objects
+- Getter methods for private fields within an object
+- For loop with break for limited user input
+- Infinite while loop with break when user quits program
 
 #### Technologies Used
 
