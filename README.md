@@ -15,7 +15,7 @@ Users input and rate a list of (up to 5) food trucks, then view the average rati
 
 #### Technologies Used
 
-Java
+- Java
 
 #### Lessons Learned
 
